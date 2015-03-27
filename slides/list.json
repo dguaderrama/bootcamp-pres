@@ -1,24 +1,25 @@
 [
     "index.md",
     [
-        "yeoman.html",
-        "idea-prototype.html",
-        "yeoman-1.html",
-        "yeoman-2.html",
-        "yeoman-3.html",
-        "yeoman-4.html",
-        "yeoman-5.html",
-        "yeoman-6.html"
+        "what.md",
+        "what-2.html",
+        "what-3.md",
+        "what-4.md"
     ],
     [
-        "grunt.md",
-        "why-grunt.md",
-        "gruntfilejs.md",
-        "grunt-build.md"
+        "types.md",
+        "types-2.md",
+        "types-3.md",
+        "types-4.md",
+        "types-5.md"
     ],
     [
-        "bower.html",
-        "bower-install.html"
+        "projections.md",
+        "projections-2.md",
+        "projections-3.md",
+        "projections-4.md",
+        "projections-5.md",
+        "projections-6.md"
     ],
     [
         "flow.html",
