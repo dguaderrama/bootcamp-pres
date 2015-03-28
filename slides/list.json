@@ -15,16 +15,19 @@
     ],
     [
         "projections.md",
+        "projections-d3.html",
         "projections-2.md",
         "projections-3.md",
         "projections-4.md",
         "projections-5.md",
-        "projections-6.md"
+        "projections-6.md",
+        "projections-7.md"
     ],
     [
-        "flow.html",
-        "flow2.html"
+        "dependence.md",
+        "dependence-2.md",
+        "dependence-3.md"
     ],
-    "on-web.html",
+    "dimensions.md",
     "questions.html"
 ]
