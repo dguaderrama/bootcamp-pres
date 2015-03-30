@@ -1,0 +1,16 @@
+/* Bootcamp styling */
+/* Either locate the style in app/reveal.js/ or locate the style and add !important to override */
+
+/* slides */
+.reveal .slides {
+  top: 45% !important;
+  width: 1040px !important;
+}
+
+/* images */
+.nasa {
+  height: 15vw;
+}
+.usgs {
+  height: 15vw;
+}

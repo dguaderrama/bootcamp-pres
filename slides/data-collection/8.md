@@ -1,0 +1,5 @@
+## Global Administrative Areas (GADM)
+
+![Spatial Data Bootcamp: Credible Data Sources - Global Administrative Boundaries](images/gadm2.png)
+
+> "GADM is a spatial database of the location of the world's administrative areas (or administrative boundaries) for use in GIS and similar software."
