@@ -1,31 +1,44 @@
 [
     "index.md",
+    "overview.md",
     [
         "what/1.md",
         "what/2.html",
         "what/3.md",
+        "what/5.md",
         "what/4.md"
     ],
     [
         "types/1.md",
         "types/2.md",
+        "types/cholera.md",
         "types/3.md",
+        "types/network.md",
         "types/4.md",
-        "types/5.md"
+        "types/wikipedia.md",
+        "types/5.md",
+        "types/terrain.md",
+        "qgis-install.md"
+
     ],
     [
         "projections/1.md",
-        "projections/d3.html",
         "projections/2.md",
         "projections/3.md",
+        "projections/d3.html",
         "projections/4.md",
+        "projections/mercator.md",
         "projections/5.md",
+        "projections/conic.md",
         "projections/6.md",
-        "projections/7.md"
+        "projections/polar.md",
+        "projections/7.md",
+        "projections/butterfly.md"
     ],
     [
         "dependence/1.md",
         "dependence/2.md",
+        "dependence/autocorrelation.md",
         "dependence/3.md"
     ],
     [
@@ -41,15 +54,15 @@
         "data-collection/10.md",
         "data-collection/11.md",
         "data-collection/12.md",
-        "data-collection/13.md"
+        "data-collection/13.md",
+        "data-collection/exercise.md"
     ],
     [
         "consumable-services/1.md",
         "consumable-services/2.md",
         "consumable-services/3.md",
         "consumable-services/4.md",
-        "consumable-services/5.md",
-        "consumable-services/6.md"
+        "consumable-services/5.md"
     ],
     [
         "spatial-functions/1.md",
@@ -57,34 +70,11 @@
         "spatial-functions/3.md",
         "spatial-functions/4.md",
         "spatial-functions/5.md",
-        "spatial-functions/6.md",
         "spatial-functions/7.md",
-        "spatial-functions/8.md",
-        "spatial-functions/9.md",
-        "spatial-functions/10.md",
-        "spatial-functions/11.md",
-        "spatial-functions/12.md",
-        "spatial-functions/13.md",
-        "spatial-functions/14.md"
+        "spatial-functions/exercise.md"
     ],
     [
-        "qgis/1.md",
-        "qgis/2.md",
-        "qgis/3.md",
-        "qgis/4.md",
-        "qgis/5.md",
-        "qgis/6.md",
-        "qgis/7.md",
-        "qgis/8.md",
-        "qgis/9.md",
-        "qgis/10.md",
-        "qgis/11.md",
-        "qgis/12.md",
-        "qgis/13.md",
-        "qgis/14.md",
-        "qgis/15.md"
+        "qgis/1.md"
      ],
-        "dimensions.md",
-        "questions.html",
-        "references.md"
+        "questions.md"
 ]
