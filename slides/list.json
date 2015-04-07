@@ -21,6 +21,21 @@
         "qgis-install.md"
 
     ],
+    [ "scale/scale.md",
+      "scale/scale-2.md",
+      "scale/scale-3.md",
+      "scale/scale-4.md",
+      "scale/scale-5.md",
+      "scale/scale-6.md",
+      "scale/scale-7.md",
+      "scale/scale-8.md"
+    ],
+    [ "resolution/1.md",
+      "resolution/2.md",
+      "resolution/3.md",
+      "resolution/4.md",
+      "resolution/5.md"
+    ],
     [
         "projections/1.md",
         "projections/2.md",
